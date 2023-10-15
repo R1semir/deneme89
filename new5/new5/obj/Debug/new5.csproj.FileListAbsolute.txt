@@ -1,0 +1,11 @@
+C:\Users\legen\source\repos\new5\new5\bin\Debug\new5.exe.config
+C:\Users\legen\source\repos\new5\new5\bin\Debug\new5.exe
+C:\Users\legen\source\repos\new5\new5\bin\Debug\new5.pdb
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.Form1.resources
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.Properties.Resources.resources
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.exe
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.pdb
+C:\Users\legen\source\repos\new5\new5\obj\Debug\new5.Form2.resources
